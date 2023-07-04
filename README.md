@@ -22,7 +22,7 @@ This mobile app serves as a management information system for the School of Engi
 5. Build and run the app on a mobile device or emulator.
 
  An apk has been generated for individuals interested in the original application  
- A short demo of the app has also been attached
+ A short demo of the app has also been attached [Demo](https://github.com/Fedor-ed/g8-ses-student-management-system/commit/5517d13e506e3e2b4bb3fc045729001804a82a28#commitcomment-120604267)
 
 ## Usage
 
